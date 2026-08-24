@@ -1,1 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d9e2e3;
+    margin: 0;
+}
 
+.cabecalho {
+    background-color: #4b5d67;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+.container {
+    width: 85%;
+    margin: auto;
+}
+
+.conteudo {
+    background-color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-left: 5px solid #4b5d67;
+}
+
+.conteudo h1 {
+    color: #4b5d67;
+}
+
+.conteudo p {
+    line-height: 1.5;
+}
+
+.lista {
+    padding-left: 25px;
+}
+
+.lista li {
+    margin: 7px;
+}
+
+.botoes {
+    margin-top: 15px;
+}
+
+button {
+    background-color: #4b5d67;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.imagens {
+    text-align: center;
+}
+
+.imagens img {
+    width: 40%;
+    margin: 5px;
+}
+
+.video {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.video video {
+    width: 70%;
+}
